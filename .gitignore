@@ -1,0 +1,5 @@
+.DS_Store
+notebooks/downloads/
+notebooks/exports/prec.pkl
+notebooks/exports/sun.pkl
+notebooks/exports/temp.pkl
